@@ -1,0 +1,1 @@
+This repository focuses on tooth numbering for lower teeth images. With this notebook, you can train a Detectron2 model on the Lower-Teeth dataset and predict the model's output. It also allows you to generate instance masks for each tooth along with their corresponding tooth numbers.
