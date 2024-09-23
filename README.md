@@ -10,7 +10,6 @@ Train the model.
 
 Test the model. 
 
-for access to the trained model, you can share your email with me. 
 
 Predicted Result:
 
