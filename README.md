@@ -10,4 +10,8 @@ Train the model.
 
 Test the model. 
 
-for the trained model, you can share your email with me. 
+for access to the trained model, you can share your email with me. 
+
+Predicted Result:
+
+![01L](https://github.com/user-attachments/assets/7a469bff-1ca7-49de-99da-545c7332cba2)
